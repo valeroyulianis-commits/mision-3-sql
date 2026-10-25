@@ -1,6 +1,7 @@
 # Misión 3 · Los datos tienen que vivir en algún sitio: SQL
 
 **Máster en IA Aplicada · Universidad Europea · Programación y Entornos en IA**
+
 Equipo: Yulianis Valero y Yuleimis Valero
 
 ## Contexto
